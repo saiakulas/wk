@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "company_name": "ABC Corp",
+        "position": "Software Engineer",
+        "location": "San Francisco, CA",
+        "description": "Join our dynamic team and contribute to cutting-edge projects.",
+        "requirements": [
+            "Bachelor's degree in Computer Science or related field",
+            "2+ years of experience in software development"
+        ],
+        "contact_email": "jobs@abccorp.com",
+        "posted_date": "2024-07-09",
+        "expiry_date": "2024-08-09"
+    },
+    {
+        "id": 2,
+        "company_name": "XYZ Tech",
+        "position": "Frontend Developer",
+        "location": "New York, NY",
+        "description": "Seeking a creative frontend developer to build responsive web applications.",
+        "requirements": [
+            "Proficiency in HTML, CSS, JavaScript",
+            "Experience with React.js or similar frontend frameworks"
+        ],
+        "contact_email": "careers@xyztech.com",
+        "posted_date": "2024-07-08",
+        "expiry_date": "2024-08-08"
+    },
+    {
+        "id": 3,
+        "company_name": "Tech Innovators Inc",
+        "position": "Data Scientist",
+        "location": "Seattle, WA",
+        "description": "Exciting opportunity for a data scientist to work on AI-driven solutions.",
+        "requirements": [
+            "Master's or PhD in Computer Science, Statistics, or related field",
+            "Experience in machine learning algorithms"
+        ],
+        "contact_email": "joinus@techinnovators.com",
+        "posted_date": "2024-07-07",
+        "expiry_date": "2024-08-07"
+    },
+    {
+        "id": 4,
+        "company_name": "Global Solutions Ltd",
+        "position": "Product Manager",
+        "location": "London, UK",
+        "description": "Lead product development and strategy for international markets.",
+        "requirements": [
+            "Proven experience in product management",
+            "Excellent communication and leadership skills"
+        ],
+        "contact_email": "careers@globalsolutions.com",
+        "posted_date": "2024-07-06",
+        "expiry_date": "2024-08-06"
+    },
+    {
+        "id": 5,
+        "company_name": "Innovate Now",
+        "position": "UX/UI Designer",
+        "location": "Berlin, Germany",
+        "description": "Create intuitive user experiences and visually appealing interfaces.",
+        "requirements": [
+            "Portfolio showcasing UX/UI design projects",
+            "Proficiency in design tools such as Sketch, Figma, or Adobe XD"
+        ],
+        "contact_email": "design@innovatenow.io",
+        "posted_date": "2024-07-05",
+        "expiry_date": "2024-08-05"
+    },
+    {
+        "id": 6,
+        "company_name": "Future Tech Solutions",
+        "position": "Backend Developer",
+        "location": "Toronto, Canada",
+        "description": "Build scalable backend systems for our innovative tech products.",
+        "requirements": [
+            "Strong proficiency in backend development using Node.js, Python, or similar technologies",
+            "Experience with cloud platforms such as AWS or Azure"
+        ],
+        "contact_email": "careers@futuretechsolutions.ca",
+        "posted_date": "2024-07-04",
+        "expiry_date": "2024-08-04"
+    }
+]

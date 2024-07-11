@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Software Development",
+        "description": "Custom software development services tailored to your business needs."
+    },
+    {
+        "id": 2,
+        "name": "Project Management",
+        "description": "Comprehensive project management services to ensure your projects are delivered on time and within budget."
+    },
+    {
+        "id": 3,
+        "name": "IT Support",
+        "description": "Round-the-clock IT support services to keep your systems running smoothly."
+    },
+    {
+        "id": 4,
+        "name": "Consulting",
+        "description": "Expert consulting services to help you navigate complex business challenges."
+    },
+    {
+        "id": 5,
+        "name": "Cybersecurity",
+        "description": "Advanced cybersecurity services to protect your business from cyber threats."
+    }
+]
